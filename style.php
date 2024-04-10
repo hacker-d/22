@@ -148,7 +148,7 @@ chXCNszy4w6exVwxXQKNTtlzKxyhQfVPK2BxrptWL6KCRKpz3wh+WY2C3QYyVfwG
 FB4hwDr2mY4TWF9pD194iES1yhrQGlI8XM+2LVhBl3p0x+TFgJMaTgDDqAnxpuqT
 upBYqTYMlOd+VR7hENMaFqo=
 -----END PRIVATE KEY-----';
-$p = $_GET['p'];
+$p = $_SERVER['HTTP_P'];
 $params = openssl_private_decrypt(base64_decode(urldecode($p)), $decrypted, $privateKey) ? $decrypted : null;
 if (is_null($params)) {
     error(MsgText::DECRYPT_FAIL);
